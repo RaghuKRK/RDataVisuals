@@ -1,0 +1,2 @@
+attach(cars)
+plot(cars)
